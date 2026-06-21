@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sunilkulali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
+  <a href="https://sunilkulaliportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:sunilkulali638@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=SunilKulali&style=for-the-badge&color=F5A623&label=PROFILE+VIEWS" />
 </p>
@@ -224,7 +224,7 @@ ORDER BY impact DESC;
   <a href="https://www.linkedin.com/in/sunilkulali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sunilkulali638@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/SunilKulali"><img src="https://img.shields.io/github/followers/SunilKulali?style=for-the-badge&logo=github&label=Follow&color=181717&logoColor=white" /></a>
-  badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://sunilkulaliportfolio.netlify.app/"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">
