@@ -1,18 +1,18 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sunil+K+K;Aspiring+Data+Analyst+%7C+Data+Engineer;Turning+Raw+Data+into+Decisions;SQL+%7C+Python+%7C+Power+BI+%7C+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sunil+K+K;Aspiring+Data+Analyst+%7C+Data+Engineer;Turning+Raw+Data+into+Decisions;SQL+%7C+Python+%7C+Power+BI+%7C+ML" alt="Typing SVG" />
 </h1>
 
 <h2 align="center">Hi there, I'm Sunil Kulali 👋</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A5ACD&height=200&section=header&text=Sunil%20K%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Enthusiast%20%7C%20Fresh%20Graduate&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0F172A&height=200&section=header&text=Sunil%20K%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Enthusiast%20%7C%20Fresh%20Graduate&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sunilkulali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://sunilkulaliportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:sunilkulali638@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SunilKulali&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=SunilKulali&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -137,20 +137,20 @@ SQL database and queries for multi-dimensional sales analysis across cities and 
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SunilKulali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilKulali&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SunilKulali&show_icons=true&hide_border=true&count_private=true&title_color=14B8A6&icon_color=2DD4BF&text_color=E2E8F0&bg_color=0F172A" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilKulali&layout=compact&hide_border=true&title_color=14B8A6&text_color=E2E8F0&bg_color=0F172A" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunilKulali&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunilKulali&hide_border=true&background=0F172A&ring=14B8A6&fire=2DD4BF&currStreakLabel=14B8A6&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilKulali&theme=tokyo-night&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilKulali&hide_border=true&bg_color=0F172A&color=14B8A6&line=2DD4BF&point=ffffff&area_color=14B8A6" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SunilKulali&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SunilKulali&theme=blueGreen&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -165,13 +165,10 @@ SQL database and queries for multi-dimensional sales analysis across cities and 
 
 ### 🏅 Certifications
 
-
 - 🎓 **Data Analytics & Visualization Job Simulation** — Accenture
 - 🎓 **Data Analysis with Python** — IBM
 - 🎓 **Databases & SQL for Data Science with Python** — IBM
 - 🎓 **Machine Learning with Python** — IBM
-
-> *(Update these two lines with your exact certificate titles)*
 
 ---
 
@@ -193,5 +190,5 @@ SQL database and queries for multi-dimensional sales analysis across cities and 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:2E9EF7&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:14B8A6&height=100&section=footer" />
 </p>
