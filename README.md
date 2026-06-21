@@ -188,7 +188,7 @@ ORDER BY impact DESC;
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SunilKulali&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://protfolio-sunil-kulali.vercel.app/?username=SunilKulali&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
