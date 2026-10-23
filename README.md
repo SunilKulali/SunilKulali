@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B1A,100:6D28D9&height=180&section=header&text=Sunil%20Kulali&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%26%20Machine%20Learning%20Engineer&descSize=20&descAlignY=64&descColor=C4B5FD" alt="Sunil Kulali - AI and Machine Learning Engineer" width="100%" />
 
-<p align="center">AI & Machine Learning Engineer | Python | Scikit-learn | LangChain | RAG | LLMs | Data Engineering | Data Analytics</p>
+<p align="center">Python | Scikit-learn | LangChain | RAG | LLMs | Data Engineering | Data Analytics</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=36&lines=Raw+data+%E2%86%92+models%2C+pipelines%2C+decisions;Machine+learning+and+RAG-powered+LLM+apps;Open+to+AI%2FML%2C+Data+Engineering+and+Analytics+roles" alt="Raw data to models, pipelines and decisions. Machine learning and RAG-powered LLM apps." />
 
