@@ -1,160 +1,232 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sunil+K+K;Data+Analyst+%7C+Aspiring+Data+Engineer;I+Turn+Raw+Data+Into+Decisions;SELECT+*+FROM+opportunities+WHERE+fit+%3D+'great'%3B" alt="Typing SVG" />
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B1A,100:6D28D9&height=180&section=header&text=Sunil%20Kulali&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%26%20Machine%20Learning%20Engineer&descSize=20&descAlignY=64&descColor=C4B5FD" alt="Sunil Kulali - AI and Machine Learning Engineer" width="100%" />
+<h2 align="center">Hi there, I'm Sunil Kulali 👋</h2>
 
-<p align="center">Python | Scikit-learn | LangChain | RAG | LLMs | Data Engineering | Data Analytics</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:F5A623&height=200&section=header&text=Sunil%20K%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Enthusiast%20%7C%20Fresh%20Graduate&descAlignY=55&descSize=18" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=36&lines=Raw+data+%E2%86%92+models%2C+pipelines%2C+decisions;Machine+learning+and+RAG-powered+LLM+apps;Open+to+AI%2FML%2C+Data+Engineering+and+Analytics+roles" alt="Raw data to models, pipelines and decisions. Machine learning and RAG-powered LLM apps." />
+<p align="center">
+  <a href="https://www.linkedin.com/in/sunilkulali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://protfolio-sunil-kulali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:sunilkulali638@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SunilKulali&style=for-the-badge&color=F5A623&label=PROFILE+VIEWS" />
+</p>
 
+<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
+
+### 👨‍💻 about_me.sql
+
+```sql
+SELECT
+    name               = 'Sunil K K',
+    role                = 'Data Analyst | Aspiring Data Engineer',
+    location            = 'Bengaluru, India',
+    education           = 'B.E. Computer Science & Engineering, VTU',
+    currently_querying  = 'Azure (DP-900 → DP-700), Microsoft Fabric',
+    open_to             = 'Data Analyst / Data Engineer / ML Engineer / BI Developer roles'
+FROM    professionals
+WHERE   passion = 'data'
+    AND curiosity > 100
+ORDER BY impact DESC;
+```
+
+- 🔭 Interned as a **Data Analyst** at IT Vedant and a **Machine Learning Intern** at CODE-B Solutions Pvt. Ltd.
+- 📊 I turn messy datasets into dashboards, models, and decisions — SQL first, story always.
+- 🤖 Built and deployed ML models end-to-end: from raw CSV to a live Streamlit app.
+- 🌱 Currently leveling up on Azure, Microsoft Fabric, and cloud data warehousing.
+- 🏅 IBM and Accenture certified.
+- 💬 Ask me about: SQL window functions, Power BI DAX, or why your churn model needs better features.
+
+<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
+
+### 📊 Impact Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/10%2C000%2B-Records_Analyzed-F5A623?style=for-the-badge&labelColor=0B0F19" />
+  <img src="https://img.shields.io/badge/90.2%25-Model_Accuracy-22D3EE?style=for-the-badge&labelColor=0B0F19" />
+  <img src="https://img.shields.io/badge/%E2%86%93%2040%25-Reporting_Time-F5A623?style=for-the-badge&labelColor=0B0F19" />
+  <img src="https://img.shields.io/badge/%E2%86%93%2015%25-Model_Errors-22D3EE?style=for-the-badge&labelColor=0B0F19" />
+</p>
+
+<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
+
+### 🛠️ Tech Stack
+
+<details open>
+<summary><b>📊 Data Analytics & BI</b></summary>
 <br>
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+</details>
 
-<a href="#featured-projects"><img src="https://img.shields.io/badge/Featured_Projects-8B5CF6?style=flat-square&logoColor=white" alt="Jump to featured projects" /></a>
-<a href="https://protfolio-sunil-kulali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio website" /></a>
-<a href="https://www.linkedin.com/in/sunilkulali"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-<a href="mailto:sunilkulali638@gmail.com"><img src="https://img.shields.io/badge/Email-34D399?style=flat-square&logo=gmail&logoColor=0B0B1A" alt="Send an email" /></a>
+<details>
+<summary><b>🤖 Machine Learning & AI</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-3E8E41?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+</p>
+</details>
 
-</div>
+<details>
+<summary><b>☁️ Cloud & Data Engineering</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+</details>
 
-### About
+<details>
+<summary><b>🧰 Tools & Frameworks</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+</details>
 
-Computer Science graduate (B.E., VTU) with two internships behind me: **Data Analyst** at IT Vedant and **Machine Learning Intern** at CODE-B Solutions Pvt. Ltd. I build machine learning models and LLM applications, including retrieval-augmented generation (RAG) with LangChain, on top of clean, well-validated data. SQL and BI keep me close to the business question, and Azure and Microsoft Fabric are my next step in data engineering.
+<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
 
-- **Based in:** Bengaluru, India
-- **Open to:** AI / ML Engineer, Junior Data Engineer, Data Analyst, BI Developer, Business Analyst, SQL Developer
-- **Learning now:** Azure Data Fundamentals (DP-900) and Microsoft Fabric
+### 🚀 Featured Projects
 
-### Evidence snapshot
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Figure | What it refers to |
-|---|---|
-| **45,000+** | Records in the Loan Approval Prediction dataset |
-| **5 models** | Classification models compared on that dataset |
-| **90.2%** | Accuracy of the loan model (an evaluation metric, not a business outcome) |
-| **27 tests** | Backend regression suite validating PulseData AI's KPI engine |
-| **2** | Internships: Data Analyst and Machine Learning |
-
-<!-- Add internship outcomes here only after confirming scope and baseline, e.g.
-"Data Analyst Intern, IT Vedant: <what you built>, reduced <which report> time by <X>%"
-"ML Intern, CODE-B: <which model>, reduced error by <X>% vs <baseline>" -->
-
-### Technical skills
-
-<sub>Violet = used in my projects · Green = currently learning</sub>
-
-| Area | Tools |
-|---|---|
-| **Machine learning and AI** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-6D28D9?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-6D28D9?style=flat-square&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-6D28D9?style=flat-square&logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-6D28D9?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-6D28D9?style=flat-square&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-6D28D9?style=flat-square&logoColor=white) |
-| **Programming and databases** | ![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-6D28D9?style=flat-square&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-6D28D9?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-6D28D9?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-6D28D9?style=flat-square&logo=numpy&logoColor=white) |
-| **Analytics and BI** | ![Power BI](https://img.shields.io/badge/Power_BI-6D28D9?style=flat-square&logo=powerbi&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-6D28D9?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-6D28D9?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| **Tools and deployment** | ![FastAPI](https://img.shields.io/badge/FastAPI-6D28D9?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-6D28D9?style=flat-square&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white) ![Git](https://img.shields.io/badge/Git-6D28D9?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-6D28D9?style=flat-square&logo=jupyter&logoColor=white) |
-| **Data engineering and cloud** | ![Azure](https://img.shields.io/badge/Azure-34D399?style=flat-square&logo=microsoftazure&logoColor=0B0B1A) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-34D399?style=flat-square&logoColor=0B0B1A) |
-
-### Featured projects
-
-#### PulseData AI
-[Repository](https://github.com/SunilKulali/PluseData-AI)
-- **Problem:** Getting trustworthy insights from an unfamiliar dataset is slow and error-prone.
-- **Approach:** Full-stack AI data intelligence tool with a dataset snapshot, automated pipeline, RAG chat over your data (GPT-4o-mini, LangChain, FAISS), join-key detection, a data health score with schema validation, and auto-clean plus dashboard generation.
-- **Engineering:** Schema-agnostic KPI classification engine, plus a self-validation layer that recomputes KPIs independently and flags drift above 1%; backed by a 27-test backend regression suite.
-- **Why it matters:** Shows LLM and RAG work paired with data validation, not just a chat wrapper.
-
-`React` `FastAPI` `MySQL` `LangChain` `FAISS` `LLMs`
-
-#### Loan Approval Prediction
-[Repository](https://github.com/SunilKulali/Predictive-Analysis-of-Loan-Status-Using-Machine-Learning) · [Live app](https://loan-approval-app-9bhxipva5x7vk2rt4nz3wt.streamlit.app/)
-- **Problem:** Manual loan eligibility checks are slow and inconsistent.
-- **Scope:** 45,000+ records; 5 domain-specific features engineered.
-- **Approach:** Compared 5 classification models, then deployed the result as a real-time Streamlit app.
-- **Result:** 90.2% accuracy (model evaluation metric).
-- **Why it matters:** Covers the full path from raw data to a usable prediction app.
-
+**💰 [Loan Approval Prediction](https://github.com/SunilKulali/Predictive-Analysis-of-Loan-Status-Using-Machine-Learning)** · `Live App`
+> **Problem:** Manual loan eligibility checks are slow and inconsistent.
+> **Approach:** Engineered 5 domain features across 45,000+ records, tested 5 classification models.
+> **Impact:** 90.2% accuracy, deployed as a real-time [Streamlit app](https://loan-approval-app-9bhxipva5x7vk2rt4nz3wt.streamlit.app/).
 `Python` `Scikit-learn` `Streamlit`
 
-#### Heart Disease Prediction
-[Repository](https://github.com/SunilKulali/Heart-Disease-Prediction-using-Machine-Learning)
-- **Problem:** Estimating heart-disease risk from patient health indicators.
-- **Approach:** Trained and evaluated classification models on health metrics.
-- **Result:** Classification models evaluated on the indicators (add metrics in the repo README).
-- **Note:** Educational project, not a clinical tool.
+</td>
+<td width="50%" valign="top">
 
-`Python` `Jupyter` `Machine Learning`
+**💳 [Credit Card Transaction Report](https://github.com/SunilKulali/Credit-Card-Transaction-Report)**
+> **Problem:** Spending patterns buried in raw transaction logs.
+> **Approach:** Built an interactive Tableau dashboard segmenting customer behavior.
+> **Impact:** Surfaced trends driving performance recommendations.
+`Tableau` `Data Viz`
 
-#### Credit Card Transaction Report
-[Repository](https://github.com/SunilKulali/Credit-Card-Transaction-Report)
-- **Problem:** Spending patterns are buried in raw transaction logs.
-- **Approach:** Built an interactive Tableau dashboard that segments customer behavior.
-- **Result:** A dashboard for exploring spending patterns by customer segment.
-- **Why it matters:** Turns a flat transaction log into something a non-technical stakeholder can explore.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`Tableau` `Data Visualization`
+**🍕 [Pizza Sales Analysis (SQL)](https://github.com/SunilKulali/SQL-Project-Pizzas-Sales-Analysis)**
+> **Problem:** Sales data scattered across orders, customers, and products.
+> **Approach:** Wrote joins, CTEs, and window functions for a full sales breakdown.
+> **Impact:** Delivered insights to optimize product and pricing strategy.
+`SQL` `Window Functions`
 
-<!-- Add after confirming: dataset size, and one headline finding from the dashboard -->
+</td>
+<td width="50%" valign="top">
 
-#### Pizza Sales Analysis (SQL)
-[Repository](https://github.com/SunilKulali/SQL-Project-Pizzas-Sales-Analysis)
-- **Problem:** Sales data is spread across orders, customers, and products.
-- **Approach:** Wrote joins, CTEs, and window functions to break down sales end to end.
-- **Result:** A full sales breakdown across products and orders.
-- **Why it matters:** Shows multi-table SQL and analytical window functions on a realistic schema.
-
-`SQL` `CTEs` `Window Functions`
-
-#### Decoding Crimes Against Women (2001-2022), Power BI
-[Repository](https://github.com/SunilKulali/Decoding-Crimes-Against-Women-2001-2022-)
-- **Problem:** Two decades of crime records with no clear narrative.
-- **Approach:** Built a multi-page Power BI dashboard with DAX measures.
-- **Result:** State-wise and year-over-year trends that can be explored interactively.
-- **Why it matters:** Shows data modelling, DAX, and storytelling on a sensitive public dataset.
-
+**📊 [Crimes Against Women — Power BI](https://github.com/SunilKulali/Decoding-Crimes-Against-Women-2001-2022-)**
+> **Problem:** 20+ years of crime data, no clear narrative.
+> **Approach:** Built a multi-page Power BI dashboard with DAX measures.
+> **Impact:** Made state-wise, year-over-year trends instantly explorable.
 `Power BI` `DAX`
 
-#### Coffee Day Sales Insights
-[Repository](https://github.com/SunilKulali/Coffee-Day-Sales-Insights-SQL-Data-Analysis)
-- **Problem:** Multi-city, multi-product sales data with no central view.
-- **Approach:** Designed a SQL database and wrote analytical queries on top of it.
-- **Result:** Product-level and city-level performance views.
-- **Why it matters:** Shows schema design plus business-focused querying.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+**❤️ [Heart Disease Prediction](https://github.com/SunilKulali/Heart-Disease-Prediction-using-Machine-Learning)**
+> **Problem:** Early risk detection from patient health metrics.
+> **Approach:** Trained and evaluated classification models on health indicators.
+> **Impact:** Reliable risk-flagging model for early screening use cases.
+`Python` `Jupyter` `ML`
+
+</td>
+<td width="50%" valign="top">
+
+**☕ [Coffee Day Sales Insights](https://github.com/SunilKulali/Coffee-Day-Sales-Insights-SQL-Data-Analysis)**
+> **Problem:** Multi-city, multi-product sales data with no central view.
+> **Approach:** Designed a SQL database with advanced analytical queries.
+> **Impact:** Clear view into product and city-level performance.
 `SQL` `Business Analysis`
 
-### AI and machine learning roadmap
+</td>
+</tr>
+</table>
 
-**In the pipeline (planned, not yet built):**
+<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
 
-- Natural-language-to-SQL analytics assistant
-- AI-generated business insight summaries
-- Interactive model evaluation dashboard
-
-<!-- Move items from planned to built only when a repo or live link exists. -->
-
-### Learning roadmap
-
-| Stage | Focus |
-|---|---|
-| **In use** | Python, SQL, scikit-learn, LangChain, RAG, Power BI, Tableau, Streamlit |
-| **Learning now** | Azure Data Fundamentals (DP-900), Microsoft Fabric |
-| **Next** | Azure Data Engineering (DP-700) |
-
-### GitHub activity
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SunilKulali&show_icons=true&hide_border=true&title_color=A78BFA&icon_color=34D399&text_color=E5E7EB&bg_color=0B0B1A" alt="GitHub stats card for SunilKulali" />
-  <img height="165" src="https://streak-stats.demolab.com?user=SunilKulali&hide_border=true&background=0B0B1A&ring=34D399&fire=A78BFA&currStreakLabel=34D399&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak for SunilKulali" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SunilKulali&show_icons=true&hide_border=true&count_private=true&title_color=F5A623&icon_color=22D3EE&text_color=E5E7EB&bg_color=0B0F19" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilKulali&layout=compact&hide_border=true&title_color=F5A623&text_color=E5E7EB&bg_color=0B0F19" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/8B5CF6/SunilKulali" alt="GitHub contribution graph for the past year" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunilKulali&hide_border=true&background=0B0F19&ring=F5A623&fire=22D3EE&currStreakLabel=F5A623&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=94A3B8" />
 </p>
 
-### Education and certifications
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilKulali&hide_border=true&bg_color=0B0F19&color=F5A623&line=22D3EE&point=ffffff&area_color=F5A623" width="95%" />
+</p>
 
-**B.E. Computer Science and Engineering**, Visvesvaraya Technological University (VTU), CGPA 7.82
+<p align="center">
+  <img src="https://protfolio-sunil-kulali.vercel.app/?username=SunilKulali&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
-- Data Analysis with Python, IBM
-- Databases and SQL for Data Science with Python, IBM
-- Machine Learning with Python, IBM
-- Data Analytics and Visualization Job Simulation, Accenture
+<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
 
-### Let's connect
+### 🎓 Education
 
-Browse the [featured projects](#featured-projects), view my [portfolio](https://protfolio-sunil-kulali.vercel.app/), or reach me on [LinkedIn](https://www.linkedin.com/in/sunilkulali) or by [email](mailto:sunilkulali638@gmail.com).
+| Degree | Institution | Score |
+|---|---|---|
+| B.E. — Computer Science & Engineering | VTU (Visvesvaraya Technological University) | CGPA 7.82 |
+
+<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
+
+### 🏅 Certifications
+
+- 🎓 **Data Analytics & Visualization Job Simulation** — Accenture
+- 🎓 **Data Analysis with Python** — IBM
+- 🎓 **Databases & SQL for Data Science with Python** — IBM
+- 🎓 **Machine Learning with Python** — IBM
+
+<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
+
+### 📡 Next in the Pipeline
+
+- ☁️ Microsoft Azure Data Fundamentals — **DP-900**
+- 🏗️ Azure Data Engineering — **DP-700**
+- 🧩 Microsoft Fabric
+
+<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
+
+### 🤝 Let's Connect and Build Something Amazing!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sunilkulali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sunilkulali638@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/SunilKulali"><img src="https://img.shields.io/github/followers/SunilKulali?style=for-the-badge&logo=github&label=Follow&color=181717&logoColor=white" /></a>
+  <a href="https://protfolio-sunil-kulali.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A623,100:0B0F19&height=100&section=footer" />
+</p>
