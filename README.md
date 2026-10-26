@@ -1,232 +1,189 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sunil+K+K;Data+Analyst+%7C+Aspiring+Data+Engineer;I+Turn+Raw+Data+Into+Decisions;SELECT+*+FROM+opportunities+WHERE+fit+%3D+'great'%3B" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<h2 align="center">Hi there, I'm Sunil Kulali 👋</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:22D3EE&height=130&section=header" alt="Decorative navy-to-cyan gradient banner" width="100%" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:F5A623&height=200&section=header&text=Sunil%20K%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Enthusiast%20%7C%20Fresh%20Graduate&descAlignY=55&descSize=18" />
-</p>
+# Sunil K K
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sunilkulali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://protfolio-sunil-kulali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:sunilkulali638@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SunilKulali&style=for-the-badge&color=F5A623&label=PROFILE+VIEWS" />
-</p>
+**Data Engineer | Python & SQL | Microsoft Fabric | Analytics & AI**
 
-<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
+I build reliable data pipelines, transform raw data into trusted datasets, and turn data into actionable intelligence.
 
-### 👨‍💻 about_me.sql
+<a href="https://protfolio-sunil-kulali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sunilkulali"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+<a href="#signature-projects"><img src="https://img.shields.io/badge/Projects-111827?style=flat-square&logo=github&logoColor=22D3EE" alt="Jump to projects" /></a>
+<a href="mailto:sunilkulali638@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=22D3EE" alt="Email Sunil" /></a>
+
+<sub>Open to entry-level Data Engineer, Analytics Engineer and Data Analyst roles · Bengaluru, India</sub>
+
+</div>
+
+---
+
+## About
 
 ```sql
-SELECT
-    name               = 'Sunil K K',
-    role                = 'Data Analyst | Aspiring Data Engineer',
-    location            = 'Bengaluru, India',
-    education           = 'B.E. Computer Science & Engineering, VTU',
-    currently_querying  = 'Azure (DP-900 → DP-700), Microsoft Fabric',
-    open_to             = 'Data Analyst / Data Engineer / ML Engineer / BI Developer roles'
-FROM    professionals
-WHERE   passion = 'data'
-    AND curiosity > 100
-ORDER BY impact DESC;
+SELECT 'Sunil K K'                                         AS name,
+       'Bengaluru, India'                                  AS based_in,
+       'Microsoft Fabric Data Engineer Associate (DP-700)' AS certified,
+       'entry-level data / analytics / ML engineering'     AS open_to
+FROM   engineer
+WHERE  data_quality = 'non-negotiable';
 ```
 
-- 🔭 Interned as a **Data Analyst** at IT Vedant and a **Machine Learning Intern** at CODE-B Solutions Pvt. Ltd.
-- 📊 I turn messy datasets into dashboards, models, and decisions — SQL first, story always.
-- 🤖 Built and deployed ML models end-to-end: from raw CSV to a live Streamlit app.
-- 🌱 Currently leveling up on Azure, Microsoft Fabric, and cloud data warehousing.
-- 🏅 IBM and Accenture certified.
-- 💬 Ask me about: SQL window functions, Power BI DAX, or why your churn model needs better features.
+I'm an early-career data engineer with hands-on experience from a Data Analyst internship (IT Vedant) and a Machine Learning internship (CODE-B Solutions), plus end-to-end projects across SQL, BI and applied ML. I care most about getting data from messy source to trusted, analytics-ready form.
 
-<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
+- **Ingestion and transformation:** cleaning and reshaping raw data with Python and SQL
+- **Modeling and analysis:** SQL-first analytical queries and data modeling
+- **Insight delivery:** Power BI and Tableau dashboards for business questions
+- **Applied ML:** classification models taken from notebook to deployed app
+- **Direction:** production-oriented data systems on Microsoft Fabric
 
-### 📊 Impact Snapshot
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/10%2C000%2B-Records_Analyzed-F5A623?style=for-the-badge&labelColor=0B0F19" />
-  <img src="https://img.shields.io/badge/90.2%25-Model_Accuracy-22D3EE?style=for-the-badge&labelColor=0B0F19" />
-  <img src="https://img.shields.io/badge/%E2%86%93%2040%25-Reporting_Time-F5A623?style=for-the-badge&labelColor=0B0F19" />
-  <img src="https://img.shields.io/badge/%E2%86%93%2015%25-Model_Errors-22D3EE?style=for-the-badge&labelColor=0B0F19" />
-</p>
+## Signature Projects
 
-<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
+### Data engineering, SQL and BI
 
-### 🛠️ Tech Stack
+> **[Pizza Sales Analysis](https://github.com/SunilKulali/SQL-Project-Pizzas-Sales-Analysis)** · `SQL`<br/>
+> **Problem:** Sales data spread across orders, customers and products needs to become answers.<br/>
+> **Approach:** SQL analysis using joins, CTEs and window functions.<br/>
+> **Outcome:** A set of analytical queries answering business questions on sales performance.<br/>
+> [Repository →](https://github.com/SunilKulali/SQL-Project-Pizzas-Sales-Analysis)
 
-<details open>
-<summary><b>📊 Data Analytics & BI</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
-</details>
+> **[Coffee Day Sales Insights](https://github.com/SunilKulali/Coffee-Day-Sales-Insights-SQL-Data-Analysis)** · `SQL`<br/>
+> **Problem:** A coffee chain's sales, customer, city and product data had no central analytical view.<br/>
+> **Approach:** Designed a SQL database and wrote advanced analytical queries on top of it.<br/>
+> **Outcome:** Queries for product- and city-level performance analysis.<br/>
+> [Repository →](https://github.com/SunilKulali/Coffee-Day-Sales-Insights-SQL-Data-Analysis)
 
-<details>
-<summary><b>🤖 Machine Learning & AI</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-3E8E41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-</p>
-</details>
+> **[Credit Card Transaction Report](https://github.com/SunilKulali/Credit-Card-Transaction-Report)** · `Tableau`<br/>
+> **Problem:** Spending patterns and performance metrics were buried in raw transaction data.<br/>
+> **Approach:** Processed the transaction data and visualized it in Tableau.<br/>
+> **Outcome:** An interactive dashboard of transaction trends and customer spending behavior.<br/>
+> [Repository →](https://github.com/SunilKulali/Credit-Card-Transaction-Report)
 
-<details>
-<summary><b>☁️ Cloud & Data Engineering</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-</details>
+> **[Crimes Against Women: Power BI](https://github.com/SunilKulali/Decoding-Crimes-Against-Women-2001-2022-)** · `Power BI` `DAX`<br/>
+> **Problem:** Multi-year, multi-state crime data was hard to explore as a whole.<br/>
+> **Approach:** Built a Power BI dashboard with DAX measures.<br/>
+> **Outcome:** A dashboard for exploring crime types by state and year.<br/>
+> [Repository →](https://github.com/SunilKulali/Decoding-Crimes-Against-Women-2001-2022-)
 
-<details>
-<summary><b>🧰 Tools & Frameworks</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-</details>
+### Applied machine learning
 
-<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
+> **[Loan Approval Prediction](https://github.com/SunilKulali/Predictive-Analysis-of-Loan-Status-Using-Machine-Learning)** · `Python` `scikit-learn` `Streamlit`<br/>
+> **Problem:** Classify loan applications as approved or defaulted from applicant and financial details.<br/>
+> **Approach:** Preprocessing and EDA, then Logistic Regression, Random Forest, Decision Tree and KNN, evaluated on accuracy, precision, recall, F1 and confusion matrix, with hyperparameter tuning.<br/>
+> **Outcome:** 87.6% accuracy reported in the repository, with Random Forest generalizing better than Logistic Regression. Deployed as a Streamlit app.<br/>
+> [Repository →](https://github.com/SunilKulali/Predictive-Analysis-of-Loan-Status-Using-Machine-Learning) · [Live demo →](https://loan-approval-app-9bhxipva5x7vk2rt4nz3wt.streamlit.app/)
 
-### 🚀 Featured Projects
+> **[Heart Disease Prediction](https://github.com/SunilKulali/Heart-Disease-Prediction-using-Machine-Learning)** · `Python` `Jupyter`<br/>
+> **Problem:** Estimate the likelihood of heart disease from patient health indicators.<br/>
+> **Approach:** Trained and evaluated classification models in a Jupyter notebook.<br/>
+> **Outcome:** A reproducible notebook workflow, from health-indicator data to a risk prediction.<br/>
+> [Repository →](https://github.com/SunilKulali/Heart-Disease-Prediction-using-Machine-Learning)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-**💰 [Loan Approval Prediction](https://github.com/SunilKulali/Predictive-Analysis-of-Loan-Status-Using-Machine-Learning)** · `Live App`
-> **Problem:** Manual loan eligibility checks are slow and inconsistent.
-> **Approach:** Engineered 5 domain features across 45,000+ records, tested 5 classification models.
-> **Impact:** 90.2% accuracy, deployed as a real-time [Streamlit app](https://loan-approval-app-9bhxipva5x7vk2rt4nz3wt.streamlit.app/).
-`Python` `Scikit-learn` `Streamlit`
+## Currently Building
 
-</td>
-<td width="50%" valign="top">
+> **DataOps Sentinel** · *In progress*<br/>
+> My flagship data engineering project, focused on reliable ingestion, data-quality checks and pipeline monitoring.<br/>
+> **Planned stack:** Python · SQL · Microsoft Fabric<br/>
+> <sub>Not yet released. This section will link to the repository once there is something to review.</sub>
 
-**💳 [Credit Card Transaction Report](https://github.com/SunilKulali/Credit-Card-Transaction-Report)**
-> **Problem:** Spending patterns buried in raw transaction logs.
-> **Approach:** Built an interactive Tableau dashboard segmenting customer behavior.
-> **Impact:** Surfaced trends driving performance recommendations.
-`Tableau` `Data Viz`
+<!-- Edit the focus and stack lines above so they match the real scope of DataOps Sentinel. -->
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Roadmap
 
-**🍕 [Pizza Sales Analysis (SQL)](https://github.com/SunilKulali/SQL-Project-Pizzas-Sales-Analysis)**
-> **Problem:** Sales data scattered across orders, customers, and products.
-> **Approach:** Wrote joins, CTEs, and window functions for a full sales breakdown.
-> **Impact:** Delivered insights to optimize product and pricing strategy.
-`SQL` `Window Functions`
+- [x] Microsoft Fabric Data Engineer Associate (DP-700)
+- [ ] Ship DataOps Sentinel with documented schemas and run instructions
+- [ ] Add automated tests and data-quality checks to pipeline projects
+- [ ] Build idempotent, repeatable ingestion on Microsoft Fabric
 
-</td>
-<td width="50%" valign="top">
+---
 
-**📊 [Crimes Against Women — Power BI](https://github.com/SunilKulali/Decoding-Crimes-Against-Women-2001-2022-)**
-> **Problem:** 20+ years of crime data, no clear narrative.
-> **Approach:** Built a multi-page Power BI dashboard with DAX measures.
-> **Impact:** Made state-wise, year-over-year trends instantly explorable.
-`Power BI` `DAX`
+## How I Engineer Data
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0B0F19','primaryTextColor':'#E5E7EB','primaryBorderColor':'#22D3EE','lineColor':'#F5A623'}}}%%
+flowchart LR
+    A[Source<br/>systems] --> B[Ingestion] --> C[Data<br/>quality] --> D[Transformation] --> E[Analytics-ready<br/>models] --> F[BI / AI<br/>applications]
+```
 
-**❤️ [Heart Disease Prediction](https://github.com/SunilKulali/Heart-Disease-Prediction-using-Machine-Learning)**
-> **Problem:** Early risk detection from patient health metrics.
-> **Approach:** Trained and evaluated classification models on health indicators.
-> **Impact:** Reliable risk-flagging model for early screening use cases.
-`Python` `Jupyter` `ML`
+*Source Systems → Ingestion → Data Quality → Transformation → Analytics-Ready Models → BI / AI Applications*
 
-</td>
-<td width="50%" valign="top">
+These are the principles I practice and am building toward, not a claim that every project above implements all of them:
 
-**☕ [Coffee Day Sales Insights](https://github.com/SunilKulali/Coffee-Day-Sales-Insights-SQL-Data-Analysis)**
-> **Problem:** Multi-city, multi-product sales data with no central view.
-> **Approach:** Designed a SQL database with advanced analytical queries.
-> **Impact:** Clear view into product and city-level performance.
-`SQL` `Business Analysis`
+- **Reproducible pipelines:** the same inputs give the same outputs
+- **Data quality checks:** validate early and fail loudly
+- **Idempotent ingestion:** re-running a load never duplicates data
+- **Clear schemas and documentation:** someone else can pick it up
+- **Automated testing:** changes are checked, not assumed
+- **Reliable, explainable results:** numbers a stakeholder can trust and trace
 
-</td>
-</tr>
-</table>
+---
 
-<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
+## Tech Stack
 
-### 📈 GitHub Stats & Activity
+**Data Engineering**<br/>
+<img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=22D3EE" alt="Python" />
+<img src="https://img.shields.io/badge/-SQL-111827?style=flat-square" alt="SQL" />
+<img src="https://img.shields.io/badge/-PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=22D3EE" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/-MySQL-111827?style=flat-square&logo=mysql&logoColor=22D3EE" alt="MySQL" />
+<img src="https://img.shields.io/badge/-ETL%2FELT-111827?style=flat-square" alt="ETL and ELT" />
+<img src="https://img.shields.io/badge/-Data_Modeling-111827?style=flat-square" alt="Data modeling" />
+<img src="https://img.shields.io/badge/-Microsoft_Fabric-111827?style=flat-square" alt="Microsoft Fabric" />
+
+**Analytics and BI**<br/>
+<img src="https://img.shields.io/badge/-Power_BI-111827?style=flat-square&logo=powerbi&logoColor=22D3EE" alt="Power BI" />
+<img src="https://img.shields.io/badge/-DAX-111827?style=flat-square" alt="DAX" />
+<img src="https://img.shields.io/badge/-Tableau-111827?style=flat-square&logo=tableau&logoColor=22D3EE" alt="Tableau" />
+<img src="https://img.shields.io/badge/-Excel-111827?style=flat-square&logo=microsoftexcel&logoColor=22D3EE" alt="Excel" />
+
+**AI and Machine Learning**<br/>
+<img src="https://img.shields.io/badge/-pandas-111827?style=flat-square&logo=pandas&logoColor=22D3EE" alt="pandas" />
+<img src="https://img.shields.io/badge/-NumPy-111827?style=flat-square&logo=numpy&logoColor=22D3EE" alt="NumPy" />
+<img src="https://img.shields.io/badge/-scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=22D3EE" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/-XGBoost-111827?style=flat-square" alt="XGBoost" />
+<img src="https://img.shields.io/badge/-TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=22D3EE" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/-PyTorch-111827?style=flat-square&logo=pytorch&logoColor=22D3EE" alt="PyTorch" />
+<img src="https://img.shields.io/badge/-LangChain-111827?style=flat-square" alt="LangChain" />
+
+**APIs and Developer Tools**<br/>
+<img src="https://img.shields.io/badge/-FastAPI-111827?style=flat-square&logo=fastapi&logoColor=22D3EE" alt="FastAPI" />
+<img src="https://img.shields.io/badge/-Streamlit-111827?style=flat-square&logo=streamlit&logoColor=22D3EE" alt="Streamlit" />
+<img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=22D3EE" alt="Git" />
+<img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=22D3EE" alt="GitHub" />
+<img src="https://img.shields.io/badge/-Jupyter-111827?style=flat-square&logo=jupyter&logoColor=22D3EE" alt="Jupyter" />
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SunilKulali&show_icons=true&hide_border=true&count_private=true&title_color=F5A623&icon_color=22D3EE&text_color=E5E7EB&bg_color=0B0F19" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilKulali&layout=compact&hide_border=true&title_color=F5A623&text_color=E5E7EB&bg_color=0B0F19" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SunilKulali&show_icons=true&bg_color=0B0F19&title_color=22D3EE&icon_color=F5A623&text_color=E5E7EB&border_color=1F2937&border_radius=8" alt="GitHub overview statistics for SunilKulali" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilKulali&layout=compact&langs_count=6&bg_color=0B0F19&title_color=22D3EE&text_color=E5E7EB&border_color=1F2937&border_radius=8" alt="Most-used languages across SunilKulali's public repositories" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunilKulali&hide_border=true&background=0B0F19&ring=F5A623&fire=22D3EE&currStreakLabel=F5A623&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=94A3B8" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilKulali&hide_border=true&bg_color=0B0F19&color=F5A623&line=22D3EE&point=ffffff&area_color=F5A623" width="95%" />
-</p>
+## Certifications and Education
 
-<p align="center">
-  <img src="https://protfolio-sunil-kulali.vercel.app/?username=SunilKulali&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
+- **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
+- **IBM:** Data Analysis with Python · Databases & SQL for Data Science with Python · Machine Learning with Python
+- **Accenture:** Data Analytics & Visualization Job Simulation
+- **B.E. Computer Science & Engineering**, VTU · CGPA 7.82
 
-<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
+---
 
-### 🎓 Education
+## Get in Touch
 
-| Degree | Institution | Score |
-|---|---|---|
-| B.E. — Computer Science & Engineering | VTU (Visvesvaraya Technological University) | CGPA 7.82 |
+The best ways to reach me are [email](mailto:sunilkulali638@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sunilkulali). I'm happy to talk about data engineering, SQL, BI or applied ML roles.
 
-<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
+<div align="center">
 
-### 🏅 Certifications
+*Trustworthy data first. Dashboards and models follow.*
 
-- 🎓 **Data Analytics & Visualization Job Simulation** — Accenture
-- 🎓 **Data Analysis with Python** — IBM
-- 🎓 **Databases & SQL for Data Science with Python** — IBM
-- 🎓 **Machine Learning with Python** — IBM
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0B0F19&height=80&section=footer" alt="Decorative cyan-to-navy gradient footer" width="100%" />
 
-<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
-
-### 📡 Next in the Pipeline
-
-- ☁️ Microsoft Azure Data Fundamentals — **DP-900**
-- 🏗️ Azure Data Engineering — **DP-700**
-- 🧩 Microsoft Fabric
-
-<p align="center"><img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:22D3EE&height=3" /></p>
-
-### 🤝 Let's Connect and Build Something Amazing!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sunilkulali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sunilkulali638@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SunilKulali"><img src="https://img.shields.io/github/followers/SunilKulali?style=for-the-badge&logo=github&label=Follow&color=181717&logoColor=white" /></a>
-  <a href="https://protfolio-sunil-kulali.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A623,100:0B0F19&height=100&section=footer" />
-</p>
+</div>
