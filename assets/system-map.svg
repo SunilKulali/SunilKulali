@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 400" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">Engineering system map</title>
+  <desc id="d">Six numbered stages: 01 data sources, 02 ingestion, 03 transformation on the top row left to right, then 04 data quality, 05 analytics and AI, 06 decisions on the bottom row right to left.</desc>
+  <style>
+    .m{font-family:'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .node{fill:#0F172A;stroke:#1E293B}
+    .flow{stroke-dasharray:4 6;animation:dash 2s linear infinite}
+    @keyframes dash{to{stroke-dashoffset:-20}}
+    @media (prefers-reduced-motion:reduce){.flow{animation:none}}
+  </style>
+  <defs>
+    <marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4 0 8z" fill="#22D3EE"/></marker>
+  </defs>
+  <rect width="680" height="400" fill="#0B1020"/>
+  <text x="30" y="34" class="m" font-size="13" fill="#22D3EE" letter-spacing="3">ENGINEERING SYSTEM MAP</text>
+
+  <g transform="translate(30,56)">
+    <rect class="node" width="180" height="120" rx="6"/><path d="M0 1H48" stroke="#22D3EE" stroke-width="2"/>
+    <text x="14" y="24" class="m" font-size="12" fill="#22D3EE">01</text>
+    <g fill="none" stroke="#22D3EE" stroke-width="1.5"><ellipse cx="152" cy="16" rx="12" ry="4"/><path d="M140 16v20a12 4 0 0 0 24 0V16"/><path d="M140 26a12 4 0 0 0 24 0"/></g>
+    <text x="14" y="64" class="m" font-size="15" font-weight="700" fill="#F8FAFC">DATA SOURCES</text>
+    <text x="14" y="88" class="m" font-size="12" fill="#94A3B8">CSV · SQL databases</text>
+    <text x="14" y="106" class="m" font-size="12" fill="#94A3B8">PostgreSQL · MySQL</text>
+  </g>
+
+  <g transform="translate(250,56)">
+    <rect class="node" width="180" height="120" rx="6"/><path d="M0 1H48" stroke="#22D3EE" stroke-width="2"/>
+    <text x="14" y="24" class="m" font-size="12" fill="#22D3EE">02</text>
+    <g fill="none" stroke="#22D3EE" stroke-width="1.5"><path d="M138 14L156 26M138 26H156M138 38L156 26M156 26h12M164 21l5 5-5 5"/></g>
+    <text x="14" y="64" class="m" font-size="15" font-weight="700" fill="#F8FAFC">INGESTION</text>
+    <text x="14" y="88" class="m" font-size="12" fill="#94A3B8">Python · FastAPI</text>
+    <text x="14" y="106" class="m" font-size="12" fill="#94A3B8">Azure Data Factory</text>
+  </g>
+
+  <g transform="translate(470,56)">
+    <rect class="node" width="180" height="120" rx="6"/><path d="M0 1H48" stroke="#22D3EE" stroke-width="2"/>
+    <text x="14" y="24" class="m" font-size="12" fill="#22D3EE">03</text>
+    <g fill="none" stroke="#22D3EE" stroke-width="1.5"><rect x="138" y="16" width="12" height="20"/><path d="M154 26h8M162 20l8 6-8 6z"/></g>
+    <text x="14" y="64" class="m" font-size="15" font-weight="700" fill="#F8FAFC">TRANSFORMATION</text>
+    <text x="14" y="88" class="m" font-size="12" fill="#94A3B8">SQL · pandas</text>
+    <text x="14" y="106" class="m" font-size="12" fill="#94A3B8">PySpark · Databricks</text>
+  </g>
+
+  <g transform="translate(470,224)">
+    <rect class="node" width="180" height="120" rx="6" style="stroke:#F5A623"/><path d="M0 1H48" stroke="#F5A623" stroke-width="2"/>
+    <text x="14" y="24" class="m" font-size="12" fill="#F5A623">04</text>
+    <g fill="none" stroke="#F5A623" stroke-width="1.5"><circle cx="152" cy="26" r="13"/><path d="M145 26l5 5 9-11"/></g>
+    <text x="14" y="64" class="m" font-size="15" font-weight="700" fill="#F8FAFC">DATA QUALITY</text>
+    <text x="14" y="88" class="m" font-size="12" fill="#94A3B8">schema validation</text>
+    <text x="14" y="106" class="m" font-size="12" fill="#94A3B8">KPI self-checks</text>
+  </g>
+
+  <g transform="translate(250,224)">
+    <rect class="node" width="180" height="120" rx="6"/><path d="M0 1H48" stroke="#22D3EE" stroke-width="2"/>
+    <text x="14" y="24" class="m" font-size="12" fill="#22D3EE">05</text>
+    <g fill="none" stroke="#22D3EE" stroke-width="1.5"><path d="M140 38L152 14L166 34Z"/><circle cx="140" cy="38" r="3.5" fill="#0F172A"/><circle cx="152" cy="14" r="3.5" fill="#0F172A"/><circle cx="166" cy="34" r="3.5" fill="#0F172A"/></g>
+    <text x="14" y="64" class="m" font-size="15" font-weight="700" fill="#F8FAFC">ANALYTICS / AI</text>
+    <text x="14" y="88" class="m" font-size="12" fill="#94A3B8">Power BI · ML</text>
+    <text x="14" y="106" class="m" font-size="12" fill="#94A3B8">RAG · LangChain</text>
+  </g>
+
+  <g transform="translate(30,224)">
+    <rect class="node" width="180" height="120" rx="6" style="stroke:#F5A623"/><path d="M0 1H48" stroke="#F5A623" stroke-width="2"/>
+    <text x="14" y="24" class="m" font-size="12" fill="#F5A623">06</text>
+    <g fill="none" stroke="#F5A623" stroke-width="1.5"><circle cx="152" cy="26" r="13"/><circle cx="152" cy="26" r="7"/><circle cx="152" cy="26" r="2.5" fill="#F5A623"/></g>
+    <text x="14" y="64" class="m" font-size="15" font-weight="700" fill="#F8FAFC">DECISIONS</text>
+    <text x="14" y="88" class="m" font-size="12" fill="#94A3B8">dashboards · reports</text>
+    <text x="14" y="106" class="m" font-size="12" fill="#94A3B8">human-in-the-loop</text>
+  </g>
+
+  <g fill="none" stroke="#22D3EE" stroke-width="1.5" marker-end="url(#a)">
+    <path class="flow" d="M210 116H244"/>
+    <path class="flow" d="M430 116H464"/>
+    <path class="flow" d="M560 176V218"/>
+    <path class="flow" d="M470 284H436"/>
+    <path class="flow" d="M250 284H216"/>
+  </g>
+  <g class="m" font-size="11" fill="#64748B" text-anchor="middle">
+    <text x="228" y="108">raw</text><text x="448" y="108">land</text>
+    <text x="450" y="276">clean</text><text x="232" y="276">model</text>
+  </g>
+  <text x="572" y="200" class="m" font-size="11" fill="#64748B">check</text>
+  <text x="30" y="378" class="m" font-size="11" fill="#64748B">Tools shown appear in the projects linked below.</text>
+</svg>
