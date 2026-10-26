@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 250" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">The data control room</title>
+  <desc id="d">Four capability rows: data pipelines (portfolio build), analytics (published), applied AI (built), certification (Microsoft Fabric DP-700 completed).</desc>
+  <style>
+    .m{font-family:'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .s{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+    .row{fill:#0F172A;stroke:#1E293B}
+    .pulse{animation:p 3s ease-in-out infinite}
+    @keyframes p{50%{opacity:.35}}
+    @media (prefers-reduced-motion:reduce){.pulse{animation:none}}
+  </style>
+  <rect width="640" height="250" fill="#0B1020"/>
+  <text x="24" y="30" class="m" font-size="13" fill="#22D3EE" letter-spacing="3">THE DATA CONTROL ROOM</text>
+  <text x="616" y="30" text-anchor="end" class="m" font-size="11" fill="#64748B" letter-spacing="2">CAPABILITY MAP</text>
+
+  <g>
+    <rect class="row" x="24" y="48" width="592" height="40" rx="4"/>
+    <circle class="pulse" cx="44" cy="68" r="5" fill="#22D3EE"/>
+    <text x="62" y="73" class="m" font-size="13" font-weight="700" fill="#F8FAFC">DATA PIPELINES</text>
+    <text x="210" y="73" class="s" font-size="13" fill="#94A3B8">ADF · Databricks · PySpark</text>
+    <rect x="480" y="57" width="124" height="22" rx="3" fill="none" stroke="#22D3EE"/>
+    <text x="542" y="72" text-anchor="middle" class="m" font-size="11" fill="#22D3EE">PORTFOLIO BUILD</text>
+  </g>
+  <g>
+    <rect class="row" x="24" y="96" width="592" height="40" rx="4"/>
+    <circle cx="44" cy="116" r="5" fill="#22D3EE"/>
+    <text x="62" y="121" class="m" font-size="13" font-weight="700" fill="#F8FAFC">ANALYTICS</text>
+    <text x="210" y="121" class="s" font-size="13" fill="#94A3B8">Power BI · Tableau · SQL case studies</text>
+    <rect x="480" y="105" width="124" height="22" rx="3" fill="none" stroke="#22D3EE"/>
+    <text x="542" y="120" text-anchor="middle" class="m" font-size="11" fill="#22D3EE">PUBLISHED</text>
+  </g>
+  <g>
+    <rect class="row" x="24" y="144" width="592" height="40" rx="4"/>
+    <circle cx="44" cy="164" r="5" fill="#22D3EE"/>
+    <text x="62" y="169" class="m" font-size="13" font-weight="700" fill="#F8FAFC">APPLIED AI</text>
+    <text x="210" y="169" class="s" font-size="13" fill="#94A3B8">InsightOS · DataIntel AI · RetailIQ</text>
+    <rect x="480" y="153" width="124" height="22" rx="3" fill="none" stroke="#22D3EE"/>
+    <text x="542" y="168" text-anchor="middle" class="m" font-size="11" fill="#22D3EE">BUILT</text>
+  </g>
+  <g>
+    <rect class="row" x="24" y="192" width="592" height="40" rx="4"/>
+    <circle cx="44" cy="212" r="5" fill="#F5A623"/>
+    <text x="62" y="217" class="m" font-size="13" font-weight="700" fill="#F8FAFC">CERTIFICATION</text>
+    <text x="210" y="217" class="s" font-size="13" fill="#94A3B8">Microsoft Fabric Data Engineer (DP-700)</text>
+    <rect x="480" y="201" width="124" height="22" rx="3" fill="none" stroke="#F5A623"/>
+    <text x="542" y="216" text-anchor="middle" class="m" font-size="11" fill="#F5A623">COMPLETED</text>
+  </g>
+</svg>
