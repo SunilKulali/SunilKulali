@@ -146,7 +146,7 @@ source → document processing → embeddings → vector search → LLM answer
 
 <img src="./assets/control-room.svg" alt="Capability panel: data pipelines (portfolio build), analytics (published), applied AI (built), certification (Microsoft Fabric DP-700 completed)." width="100%" />
 
-[Pipelines](#04--healthcare-data-lake) &nbsp;·&nbsp; [Analytics repos](https://github.com/SunilKulali?tab=repositories) &nbsp;·&nbsp; [Applied AI](#01--insightos) &nbsp;·&nbsp; [Portfolio](https://protfolio-sunil-kulali.vercel.app/)
+[Pipelines](#04--healthcare-data-lake) &nbsp;·&nbsp; [Analytics repos](https://github.com/SunilKulali?tab=repositories) &nbsp;·&nbsp; [Applied AI](#01--insightos) &nbsp;·&nbsp; [Portfolio](https://sunilk-portfolio-peach.vercel.app/)
 
 ---
 
@@ -187,6 +187,6 @@ If the cards don't load, see [all repositories](https://github.com/SunilKulali?t
 
 Open to entry-level Data Engineer, Analytics Engineer, Data Analyst, and AI/ML Engineer roles in Bengaluru and remote.
 
-[sunilkulali638@gmail.com](mailto:sunilkulali638@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sunilkulali) &nbsp;·&nbsp; [Portfolio](https://protfolio-sunil-kulali.vercel.app/)
+[sunilkulali638@gmail.com](mailto:sunilkulali638@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sunilkulali) &nbsp;·&nbsp; [Portfolio](https://sunilk-portfolio-peach.vercel.app/)
 
 <sub>Reliable data first. Intelligence second.</sub>
